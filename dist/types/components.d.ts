@@ -44,6 +44,7 @@ declare global {
       'positionRingColor': string;
       'protocol': string;
       'squares': boolean;
+      'children': any
     }
   }
 
